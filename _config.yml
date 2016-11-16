@@ -1,0 +1,96 @@
+# Configuration for jekyll
+# NOTICE: GitHub forces to set `safe: true` in order to prohibit using plugins.
+safe: false
+source: .
+destination: ./_site
+plugins_dir: ./_plugins
+lsi: true
+highlighter: rouge
+markdown: kramdown
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
+
+url: http://3rd-ndn-hackathon.named-data.net
+baseurl: 
+
+Wireless Access Details:
+- netsec-guest (preferred), password: workshop2016
+- eduroam
+- csu-gues (not preferred, throttled and restricted)
+
+
+deadlines:
+- name: Submission deadline
+  date: <del>October 26, 2016</del>
+- name: Acceptance notification
+  date: <del>October 31, 2016</del>
+
+# Configuration for permalink
+permalink: /:page.html
+
+# Configuration for site
+title: 3rd Named Data Networking (NDN) Hackathon
+short_title: 3rd NDN Hackathon
+description: November 4-5, 2016, Colorado State University Campus in Fort Collins, CO
+author: 3rd NDN Hackathon Organizing Committee
+email: 3rd-ndn-hackathon@named-data.net
+
+# Configuration for blog
+lang: en
+columns: 3
+date_format: "%B %d, %Y"
+truncate_len: 200
+
+# Configuration for navbar.html
+navbar_list:
+- name: Home
+  link: /
+- name: Call for Hack Proposals
+  link: /cfh.html
+- name: Committees
+  link: /committees.html
+- name: Program
+  link: /program.html
+- name: <b>HACKS</b>
+  link: /hacks.html
+# - name: <b>REGISTER NOW</b>
+#   link: https://www.eventbrite.com/e/3rd-ndn-hackathon-tickets-28368329437
+
+# Configuration for responsive break point when using 'custom'.
+responsive_bp: 768
+
+# Configuration for asides.html
+# CAUTION: `themes` should be false to put the script.html at the bottom.
+asides:
+    github: true
+    tweets: false
+    archive_tabs: false
+
+# Configuration for jQuery
+jquery_ver: 1.10.2
+
+#google_analytics:
+#    account: UA-XXXXX-X
+
+google_plus_one:
+    size: medium
+
+twitter:
+    username: NamedData
+    count: 5
+    exclude_replies: true
+    show_screen_name: true
+    show_follower_count: false
+    widget_id: 698294519054278656
+
+github:
+   username: 3rd-ndn-hackathon
+   count: 10
+
+image:
+  source: images
+  output: generated
+  presets:
+    preview:
+      width: 300
+    large:
+      width: 800
