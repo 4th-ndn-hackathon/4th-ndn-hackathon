@@ -17,7 +17,7 @@ deadlines:
 - name: Submission deadline
   date: March 1, 2017
 - name: Acceptance notification
-  date: March 5th, 2017
+  date: March 5, 2017
 
 # Configuration for permalink
 permalink: /:page.html
@@ -25,7 +25,7 @@ permalink: /:page.html
 # Configuration for site
 title: 4th Named Data Networking (NDN) Hackathon
 short_title: 4th NDN Hackathon
-description: March 25th, 26th 2017, University of Memphis
+description: March 24-26th, 2017, University of Memphis, Memphis, TN
 author: 4th NDN Hackathon Organizing Committee
 email: 4th-ndn-hackathon@named-data.net
 
@@ -79,7 +79,7 @@ twitter:
 
 github:
    username: 4th-ndn-hackathon
-   count: 10
+   count: 100
 
 image:
   source: images

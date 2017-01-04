@@ -3,7 +3,6 @@ layout: page
 title: 4th NDN Hackathon Program
 ---
 
-
 ### Friday, March 24th, 2017
 
 {:.table-condensed .table-striped .table-hover .program}
