@@ -6,7 +6,16 @@ title: 4th NDN Hackathon Program
 
 
 
-### Friday, November 4, 2016
+### Friday, March 24, 2017
+
+5PM-6PM - Welcome + project pitches + form groups
+
+### Saturday
+9AM-7PM - Hacking
+
+### Sunday
+9AM-12PM Hacking (3 hours)
+12PM-1:30PM Project Presentations + Judging
 
 
 
