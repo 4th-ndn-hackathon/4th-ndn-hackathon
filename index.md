@@ -11,7 +11,8 @@ We encourage projects that:
  - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
 
-### Registration Link
+
+## Registration Link
 
 [Register at EventBrite](https://www.eventbrite.com/e/4th-ndn-hackathon-tickets-29700938306)
 
