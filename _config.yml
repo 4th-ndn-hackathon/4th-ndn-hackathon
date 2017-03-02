@@ -15,9 +15,9 @@ baseurl:
 
 deadlines:
 - name: Submission deadline
-  date: March 1, 2017
+  date: March 8, 2017
 - name: Acceptance notification
-  date: March 7, 2017
+  date: March 12, 2017
 
 # Configuration for permalink
 permalink: /:page.html
