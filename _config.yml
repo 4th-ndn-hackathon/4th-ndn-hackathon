@@ -47,6 +47,8 @@ navbar_list:
   link: /program.html
 - name: <b>HACKS</b>
   link: /hacks.html
+- name: <b>Terms</b>
+  link: /terms.html
 # - name: <b>REGISTER NOW</b>
 #   link: https://www.eventbrite.com/e/3rd-ndn-hackathon-tickets-28368329437
 
