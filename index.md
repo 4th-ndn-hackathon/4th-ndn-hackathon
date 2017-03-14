@@ -18,6 +18,7 @@ We encourage projects that:
 
 ## News
 
+- March 12th, 2017: Accepted Hacks posted
 - January 4th, 2016: Program updated
 - Nov 16th, 2016: The hackathon website is up
 

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Accepted Hacks for 3nd NDN Hackathon
+title: Accepted Hacks for 4th NDN Hackathon
 ---
 
-## Accepted Hacks
 
 - ndnSIM Mobile Simulation Package
 - WebUI for NDNS
