@@ -5,6 +5,7 @@ title: Accepted Hacks for 4th NDN Hackathon
 
 
 - [ndnSIM Mobile Simulation Package](assets/ndnSIM-mobile-package.docx)
+  -- [github](https://github.com/4th-ndn-hackathon/NDNProSe-NDN-for-Proximity-Services)
 - [WebUI for NDNS](assets/hackthon-proposal-NDNS.pdf)
 - [Software-defined Named Data Networking](assets/sdndn-ndn-hackathon.docx)
 - [NFD Control Center GUI Improvement](assets/webui.pdf)
