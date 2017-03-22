@@ -4,7 +4,7 @@ title: Accepted Hacks for 4th NDN Hackathon
 ---
 
 
-- ndnSIM Mobile Simulation Package
+- [ndnSIM Mobile Simulation Package](assets/ndnSIM-mobile-package.docx)
 - WebUI for NDNS
 - Software-defined Named Data Networking
 - NFD Control Center GUI Improvement
