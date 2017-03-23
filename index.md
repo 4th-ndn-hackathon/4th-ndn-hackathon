@@ -12,6 +12,10 @@ We encourage projects that:
  - create or improve documentation and how-to guides.
 
 
+## Hackathon Proposal Presentations
+[Presentation](assets/hackathon-proposal.pdf)
+
+
 ## Registration Link
 
 [Register at EventBrite](https://www.eventbrite.com/e/4th-ndn-hackathon-tickets-29700938306)
