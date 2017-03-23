@@ -11,13 +11,19 @@ We encourage projects that:
  - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
 
+
+
 ## Chat Room
 
 [Chat Room](https://gitter.im/4th-ndn-hackathon/Lobby)
 
 
+
+
 ## Hackathon Proposal Presentations
 [Presentation](assets/hackathon-presentations.pdf)
+
+
 
 
 ## News
@@ -25,6 +31,9 @@ We encourage projects that:
 - March 12th, 2017: Accepted Hacks posted
 - January 4th, 2016: Program updated
 - Nov 16th, 2016: The hackathon website is up
+
+
+
 
 ## Sponsors
 [NDN Consortium](https://named-data.net/consortium/)
