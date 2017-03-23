@@ -13,7 +13,7 @@ We encourage projects that:
 
 
 ## Hackathon Proposal Presentations
-[Presentation](assets/hackathon-proposal.pdf)
+[Presentation](assets/hackathon-presentations.pdf)
 
 
 ## Registration Link
