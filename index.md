@@ -20,10 +20,6 @@ We encourage projects that:
 [Presentation](assets/hackathon-presentations.pdf)
 
 
-## Registration Link
-
-[Register at EventBrite](https://www.eventbrite.com/e/4th-ndn-hackathon-tickets-29700938306)
-
 ## News
 
 - March 12th, 2017: Accepted Hacks posted
@@ -31,4 +27,4 @@ We encourage projects that:
 - Nov 16th, 2016: The hackathon website is up
 
 ## Sponsors
-
+[NDN Consortium](https://named-data.net/consortium/)
