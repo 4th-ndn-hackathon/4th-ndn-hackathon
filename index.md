@@ -11,6 +11,10 @@ We encourage projects that:
  - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
 
+## Chat Room
+
+[Chat Room](https://gitter.im/4th-ndn-hackathon/Lobby)
+
 
 ## Hackathon Proposal Presentations
 [Presentation](assets/hackathon-presentations.pdf)
