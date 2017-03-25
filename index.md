@@ -35,7 +35,7 @@ We encourage projects that:
 ## Pictures
 
 <picture>
- <img src="images/20170325_095104.jpg" style="width:auto;">
+ <img src="images/20170325_095104.jpg" style="width:200;">
 </picture>
 
 
