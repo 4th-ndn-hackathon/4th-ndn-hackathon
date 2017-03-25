@@ -35,7 +35,9 @@ We encourage projects that:
 ## Pictures
 
 <picture>
- <img src="images/20170325_095104.jpg" style="width:200;">
+
+  <source srcset="images/20170325_095104.jpg" media="(max-width: 400px)">
+  <img src="images/20170325_095104.jpg">
 </picture>
 
 
