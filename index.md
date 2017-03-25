@@ -32,6 +32,11 @@ We encourage projects that:
 - January 4th, 2016: Program updated
 - Nov 16th, 2016: The hackathon website is up
 
+## Pictures
+
+<picture>
+ <img src="images/20170325_095104.jpg" style="width:auto;">
+</picture>
 
 
 
