@@ -34,11 +34,7 @@ We encourage projects that:
 
 ## Pictures
 
-<picture>
-
-  <source srcset="images/20170325_095104.jpg" media="(max-width: 400px)">
-  <img src="images/20170325_095104.jpg">
-</picture>
+![image-title-here](images/20170325_095104.jpg){:class="img-responsive"}
 
 
 
