@@ -38,9 +38,6 @@ title: Accepted Hacks for 4th NDN Hackathon
 
   -- [GitHub](https://github.com/4th-ndn-hackathon/NDN-Maps-application)
 
-- [Security in ChronoShare](assets/Security_in_ChronoShare.pdf)
-
-  -- [GitHub](https://github.com/4th-ndn-hackathon/Security-in-ChronoShare)
 
 - [Namespace synchronization with the Common Name Library](assets/namespace-sync.docx)
 
@@ -70,13 +67,14 @@ title: Accepted Hacks for 4th NDN Hackathon
   --- Eric Newberry (University of Arizona)
 
 - <s>[NDN Stack for ESP8266 Microcontroller](assets/esp8266.pdf)
-  -- [GitHub](https://github.com/4th-ndn-hackathon/NDN-Stack-for-ESP8266-Microcontroller)
-- [NDNProSe - NDN for Proximity Services](assets/ndnprose.pdf)
-  -- [GitHub](https://github.com/4th-ndn-hackathon/NDNProSe-NDN-for-Proximity-Services)
-- [Software-defined Named Data Networking](assets/sdndn-ndn-hackathon.docx)
-  -- [GitHub](https://github.com/4th-ndn-hackathon/Software-defined-Named-Data-Networking)
-- [NFD Control Center GUI Improvement](assets/webui.pdf)
-  -- [GitHub](https://github.com/4th-ndn-hackathon/NFD-Control-Center-GUI-Improvement)
-- [WebUI for NDNS](assets/hackthon-proposal-NDNS.pdf)
-  -- [GitHub](https://github.com/4th-ndn-hackathon/WebUI-for-NDNS)
-  </s>
+  -- [GitHub](https://github.com/4th-ndn-hackathon/NDN-Stack-for-ESP8266-Microcontroller)</s>
+- <s>[NDNProSe - NDN for Proximity Services](assets/ndnprose.pdf)
+  -- [GitHub](https://github.com/4th-ndn-hackathon/NDNProSe-NDN-for-Proximity-Services)</s>
+- <s>[Software-defined Named Data Networking](assets/sdndn-ndn-hackathon.docx)
+  -- [GitHub](https://github.com/4th-ndn-hackathon/Software-defined-Named-Data-Networking)</s>
+- <s>[NFD Control Center GUI Improvement](assets/webui.pdf)
+  -- [GitHub](https://github.com/4th-ndn-hackathon/NFD-Control-Center-GUI-Improvement)</s>
+- <s>[WebUI for NDNS](assets/hackthon-proposal-NDNS.pdf)
+  -- [GitHub](https://github.com/4th-ndn-hackathon/WebUI-for-NDNS)</s>
+- <s>[Security in ChronoShare](assets/Security_in_ChronoShare.pdf)
+  -- [GitHub](https://github.com/4th-ndn-hackathon/Security-in-ChronoShare)</s>
