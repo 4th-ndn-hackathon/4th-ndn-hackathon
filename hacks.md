@@ -46,6 +46,14 @@ title: Accepted Hacks for 4th NDN Hackathon
 
   -- [GitHub](https://github.com/4th-ndn-hackathon/Namespace-synchronization-with-the-Common-Name-Library)
 
+  --- Jeff Thompson, Zhehao Wang, and Peter Gusev (UCLA REMAP)
+
+  --- Haitao Zhang and Hsiao-Yun (Katie) Tseng (UCLA)
+
+  --- Seweryn Dynerowicz (COPELABS, Universidade Lusofona)
+
+  --- Piotr Zuraniewski (TNO, The Netherlands)
+
 
 - [Ethernet Unicast Face](assets/ethernet_unicast_face.pdf)
 
