@@ -5,13 +5,19 @@ title: Accepted Hacks for 4th NDN Hackathon
 
 - [ndnSIM Mobile Simulation Package](assets/ndnSIM-mobile-package.docx)
 
-  -- [GitHub](https://github.com/4th-ndn-hackathon/ndnSIM-Mobile-Simulation-Package)
+  -- [GitHub](https://github.com/4th-ndn-hackathon/NDN-Maps-application)
 
-  --- Siham Khoussi (NIST)
+  --- Junior Dongo (Paris Est University)
 
-  --- Klaus Schneider (University of Arizona)
+  --- Md Ashiqur Rahman (University of Arizona)
 
-  --- Damian Coomes (University of Memphis)
+  --- Giulio Grassi (UPMC)
+
+  --- Spyros Mastorakis (UCLA)
+
+  --- Meng Kuai	Grad Student (University of Alabama)
+
+  --- Pawan Subedi (University of Alabama)
 
 
 - [Mini-NDN Wi-Fi](assets/mini-ndn-wifi.pdf)
@@ -44,19 +50,13 @@ title: Accepted Hacks for 4th NDN Hackathon
 
 - [NDN Maps application](assets/NDN_Maps_project_proposal.pdf)
 
-  -- [GitHub](https://github.com/4th-ndn-hackathon/NDN-Maps-application)
+  -- [GitHub](https://github.com/4th-ndn-hackathon/ndnSIM-Mobile-Simulation-Package)
 
-  --- Junior Dongo (Paris Est University)
+  --- Siham Khoussi (NIST)
 
-  --- Md Ashiqur Rahman (University of Arizona)
+  --- Klaus Schneider (University of Arizona)
 
-  --- Giulio Grassi (UPMC)
-
-  --- Spyros Mastorakis (UCLA)
-
-  --- Meng Kuai	Grad Student (University of Alabama)
-
-  --- Pawan Subedi (University of Alabama)
+  --- Damian Coomes (University of Memphis)
 
 
 - [Namespace synchronization with the Common Name Library](assets/namespace-sync.docx)
