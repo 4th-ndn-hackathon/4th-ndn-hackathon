@@ -18,19 +18,19 @@ We encourage projects that:
 [Chat Room](https://gitter.im/4th-ndn-hackathon/Lobby)
 
 
-
-
 ## Hackathon Proposal Presentations
 [Presentation](assets/hackathon-presentations.pdf)
 
 
 ## Hackathon Winners
 
+ - Ethernet Unicast Face
 
+ - ndnSIM Mobile Simulation Package
 
 
 ## News
-
+- March 26th, 2017: Hackathon completed - Pictures below.
 - March 12th, 2017: Accepted Hacks posted
 - January 4th, 2016: Program updated
 - Nov 16th, 2016: The hackathon website is up
