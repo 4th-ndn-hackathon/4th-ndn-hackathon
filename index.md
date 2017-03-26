@@ -32,7 +32,7 @@ We encourage projects that:
 - January 4th, 2016: Program updated
 - Nov 16th, 2016: The hackathon website is up
 
-## Pictures
+## Pictures - Day 1
 
 ![](images/20170324_182052.jpg){:class="img-responsive"}
 ![](images/20170325_095104.jpg){:class="img-responsive"}
@@ -46,6 +46,15 @@ We encourage projects that:
 ![](images/20170325_145232.jpg){:class="img-responsive"}
 
 
+## Pictures - Day 2
+
+![](images/20170326_091313_001.jpg){:class="img-responsive"}
+![](images/20170326_091322.jpg){:class="img-responsive"}
+![](images/20170326_091342.jpg){:class="img-responsive"}
+![](images/20170326_091355.jpg){:class="img-responsive"}
+![](images/20170326_091402.jpg){:class="img-responsive"}
+![](images/20170326_091405.jpg){:class="img-responsive"}
+![](images/20170326_091432.jpg){:class="img-responsive"}
 
 
 ## Sponsors
