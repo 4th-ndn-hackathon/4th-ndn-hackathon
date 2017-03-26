@@ -12,9 +12,25 @@ title: Accepted Hacks for 4th NDN Hackathon
   -- [GitHub](https://github.com/4th-ndn-hackathon/Software-defined-Named-Data-Networking)
 - [NFD Control Center GUI Improvement](assets/webui.pdf)
   -- [GitHub](https://github.com/4th-ndn-hackathon/NFD-Control-Center-GUI-Improvement)
+
 - [Mini-NDN Wi-Fi](assets/mini-ndn-wifi.pdf)
+
   -- [GitHub](https://github.com/4th-ndn-hackathon/Mini-NDN-Wi-Fi)
+
+  --- Ashlesh Gawande (University of Memphis)
+
+  --- Vince Lehman ((Alumni) University of Memphis)
+
+  --- Chavoosh Ghasemi (University of Arizona)
+
+  --- Jacopo De Benedetto (University of Goettingen)
+
+  --- Laqin Fan (University of Memphis)
+
+  --- Muktadir Chowdhury (University of Memphis)
+
 - [Initial Implementation of Interest Digest in NFD](assets/digest.pdf)
+
   -- [GitHub](https://github.com/4th-ndn-hackathon/Initial-Implementation-of-Interest-Digest-in-NFD)
 
   --- Junxiao Shi (The University of Arizona)
@@ -36,5 +52,16 @@ title: Accepted Hacks for 4th NDN Hackathon
 - [NDNProSe - NDN for Proximity Services](assets/ndnprose.pdf)
   -- [GitHub](https://github.com/4th-ndn-hackathon/NDNProSe-NDN-for-Proximity-Services)
 - [Ethernet Unicast Face](assets/ethernet_unicast_face.pdf)
+
   --[GitHub](https://github.com/4th-ndn-hackathon/ethernet-unicast-face)
+
+  --- Alex Afanasyev (UCLA)
+
+  --- Davide Pesavento (UPMC-LIP6/NIST)
+
+  --- Susmit Shannigrahi (CSU)
+
+  --- Teng Liang (University of Arizona)
+
+  --- Eric Newberry (University of Arizona)
 
