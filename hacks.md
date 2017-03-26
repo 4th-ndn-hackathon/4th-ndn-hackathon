@@ -4,7 +4,15 @@ title: Accepted Hacks for 4th NDN Hackathon
 ---
 
 - [ndnSIM Mobile Simulation Package](assets/ndnSIM-mobile-package.docx)
+
   -- [GitHub](https://github.com/4th-ndn-hackathon/ndnSIM-Mobile-Simulation-Package)
+
+  --- Siham Khoussi (NIST)
+
+  --- Klaus Schneider (University of Arizona)
+
+  --- Damian Coomes (University of Memphis)
+
 
 - [Mini-NDN Wi-Fi](assets/mini-ndn-wifi.pdf)
 
