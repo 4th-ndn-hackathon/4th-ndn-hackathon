@@ -49,8 +49,8 @@ title: Accepted Hacks for 4th NDN Hackathon
   -- [GitHub](https://github.com/4th-ndn-hackathon/Namespace-synchronization-with-the-Common-Name-Library)
 - [NDN Stack for ESP8266 Microcontroller](assets/esp8266.pdf)
   -- [GitHub](https://github.com/4th-ndn-hackathon/NDN-Stack-for-ESP8266-Microcontroller)
-- [NDNProSe - NDN for Proximity Services](assets/ndnprose.pdf)
-  -- [GitHub](https://github.com/4th-ndn-hackathon/NDNProSe-NDN-for-Proximity-Services)
+- <s>[NDNProSe - NDN for Proximity Services](assets/ndnprose.pdf)
+  -- [GitHub](https://github.com/4th-ndn-hackathon/NDNProSe-NDN-for-Proximity-Services)</s>
 - [Ethernet Unicast Face](assets/ethernet_unicast_face.pdf)
 
   --[GitHub](https://github.com/4th-ndn-hackathon/ethernet-unicast-face)
