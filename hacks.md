@@ -46,6 +46,18 @@ title: Accepted Hacks for 4th NDN Hackathon
 
   -- [GitHub](https://github.com/4th-ndn-hackathon/NDN-Maps-application)
 
+  --- Junior Dongo (Paris Est University)
+
+  --- Md Ashiqur Rahman (University of Arizona)
+
+  --- Giulio Grassi (UPMC)
+
+  --- Spyros Mastorakis (UCLA)
+
+  --- Meng Kuai	Grad Student (University of Alabama)
+
+  --- Pawan Subedi (University of Alabama)
+
 
 - [Namespace synchronization with the Common Name Library](assets/namespace-sync.docx)
 
