@@ -16,6 +16,7 @@ title: Accepted Hacks for 4th NDN Hackathon
   -- [GitHub](https://github.com/4th-ndn-hackathon/Mini-NDN-Wi-Fi)
 - [Initial Implementation of Interest Digest in NFD](assets/digest.pdf)
   -- [GitHub](https://github.com/4th-ndn-hackathon/Initial-Implementation-of-Interest-Digest-in-NFD)
+
   --- Junxiao Shi (The University of Arizona)
   ---  Lei Pi (University of Memphis)
   ---  Qi Zhao (University of California, Los Angeles)
